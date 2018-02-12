@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Platnosc" type="CLASS" />
+      <mapping pattern="ShopController" type="JAVA" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
